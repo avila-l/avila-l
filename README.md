@@ -3,7 +3,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eu.lucasavila@gmail.com)
 [![hotmail](	https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:eu-lucasavila@hotmail.com)
 
-![Snake animation](https://github.com/avila-l/avila-l/blob/output/github-contribution-grid-snake.svg)
 ### ![LucasAvila GitHub stats](https://github-readme-stats.vercel.app/api?username=avila-l&show_icons=true&theme=dark)
 
 ### Tecnologias que uso no meu dia 
